@@ -28,4 +28,4 @@ if __name__ == "__main__":
                 '"' + task["title"] + '",' + "\n"
             )
             for task in todo_info
-        ]       
+        ]
